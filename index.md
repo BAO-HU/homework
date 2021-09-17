@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="utf-8">
 
-You can use the [editor on GitHub](https://github.com/BAO-HU/homework/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>首頁</title>
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="t1.css" rel="stylesheet" type="text/css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+  <link type="text/css" href="t1.css">
+</head>
 
-### Markdown
+<body>
+  <div class="header">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <p><img src="images/banner.gif" width="1020" height="90" alt="" /></p>
+    <p>sssssss</p>
+  </div>
 
-```markdown
-Syntax highlighted code block
+  <div class="content">
+    <div class="contentL">
+      <div>
+        <p><a class="font1" href="divtest.html">回首頁</a></p>
+        <p><a class="font1" href="intro.htm">自我介紹</a></p>
+        <p><a class="font1" href="ex1.html">練習一</a></p>
+        <p><a class="font1" href="CSS_ex1/blog-01.html">練習二</a></p>
+        <p><a class="font1" href="ex3.html">練習三</a></p>
+        <p><a class="font1" href="ex4.html">練習四</a></p>
+        <p><a class="font1" href="ex5.html">練習五</a></p>
+        <p><a class="font1" href="ex6.html">練習六</a></p>
+        <p><a class="font1" href="ex7.html">練習七</a></p>
+        <p><a class="font1" href="ex8.html">練習八</a></p>
+        <p><a class="font1" href="ex9.html">練習九</a></p>
+        <p><a class="font1" href="ex10.html">練習十</a></p>
+        <p><a class="font1" href="ex11.html">練習十一</a></p>
+        <p><a class="font1" href="ex11-1.html">練習十一的手機截圖</a></p>
+        <p><a class="font1" href="ex12.html">練習十二</a></p>
+        <p><a class="font1" href="ex12-1.html">練習十二的手機截圖</a></p>
+        <p><a class="font1" href="Final.html">期末作業</a></p>
+        <p><a class="font1" href="hw1.html">hw1</a></p>
+      </div>
+    </div>
+    <div class="contentR">
+      <p>Mainpage</p>
+    </div>
+  </div>
 
-# Header 1
-## Header 2
-### Header 3
+  <div class="footer">
+    <p><a class="font2">版權所有 copyright&copy;胡家寶4A690053</a></p>
+    <p>&nbsp;</p>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery-3.1.1.min.js"></script>
 
-- Bulleted
-- List
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.js"></script>
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BAO-HU/homework/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
